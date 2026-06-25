@@ -12,7 +12,7 @@ I'm passionate about building practical and deployable ML applications.
 ### Background
 I hold a Master's degree in Mathematics and have been actively learning deep learning through hands-on projects.
 
-### Currently Learning & Building
+### Current Focus
 - Large Language Models and Retrieval-Augmented Generation (RAG)
 - Production ML workflows (Docker, FastAPI, cloud deployment)
 - Creating user-friendly AI applications
